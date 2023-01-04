@@ -1,0 +1,94 @@
+Serial Number, Food, calories, carbohydrates, protein, fat
+B1, Scrambled eggs, 150, 1, 12, 11
+B2, Tater tots, 310, 37, 3, 17
+B3, Canadian Bacon, 120, 1, 20, 3.5
+B4, Turkey Bacon, 120, 1, 9, 9
+B5, Vegan Sausage, 140, 5, 11, 10
+B6, Tofu scramble, 100, 7, 7, 6
+B7, Sausage, 140, 1, 9, 11
+B8, French toast sticks, 180, 22, 3, 10
+B9, Muffin, 200, 33, 3, 7
+B10, Muffin(V), 50, 9, 1, 1
+B11, Scone, 230, 29, 3, 12
+B12, Donut, 460, 57, 5, 24
+B13, Assorted Bagel, 480, 87, 17, 7
+B14, Waffle, 490, 69, 3, 23
+B15, Chocolate pancakes, 460, 72, 8, 16
+B16, Greek yogurt, 80, 9, 6, 2
+B17, Plain yogurt, 80, 8, 6, 2
+B18, Vanilla yogurt, 110, 19, 5, 1.5
+B19, Oatmeal, 100, 17, 4, 1.5
+L1, Chicken Tenders, 460, 25, 24, 30
+L2, Italian Sausage, 260, 0, 11, 24
+L3, Cilantro Lime Grilled Tofu, 370, 11, 11, 34
+L4, shoestring fries, 190, 29, 2, 7
+L5, French fries, 300, 45, 5, 12
+L6, Boardwalk Fries, 300, 45, 5, 12
+L7, Baby Carrots, 70, 8, 1, 4
+L8, Plain Hamburger Bun, 120, 22, 4, 1.5
+L9, Club Roll, 90, 15, 2, 2
+L10, White Rice, 200, 44, 4, 0
+L11, Brown Rice, 200, 42, 4, 1.5
+L12, Oven Roasted Chicken Breast, 280, 13, 13, 20
+L13, Cuban sandwich, 180, 5, 16, 9
+L14, Brussel Sprouts,40, 8, 3, 0.5
+L15, Battered Green Beans, 50, 6, 1, 2.5
+L16, Portabella Mushroom, 45, 7, 3, 1.5
+L17, Chicken Quesadilla, 460, 24, 29, 27
+L18, Rigatoni Ponza, 190, 31, 8, 4.5
+L19, Beyond Burger, 310, 32, 24, 10
+L20, Pulled Pork Barbecue, 380, 42, 23, 12
+L21, Tofu and Bok Choy, 140, 13, 10, 6
+L22, Mac & Cheese, 300, 36, 13, 11
+L23, Grilled Cheese & tomato, 300, 36, 11, 12
+L24, Buffalo Style Chicken Wings, 380, 4, 14, 11
+L25, Buffalo Tofu Wings, 190, 12, 11, 11
+L26, Meatballs, 280, 11, 14, 20
+L27, Spaghetti with Marinara, 250, 52, 8, 1
+L28, Philly Steak with toppings, 210, 2, 14, 15
+L29, Penne with basil & tomato, 170, 25, 5, 6
+L30, Pork Carnita, 230, 16, 19, 10
+L31, Tofu Carnita, 190, 13, 14, 11
+L32, Corn Tortilla, 60, 12, 1, 0.5
+L33, Flour Tortilla, 90, 15, 2, 2.5
+L34, Hamburger, 510, 6, 43, 34
+D1, Pasta Bar, 410, 43, 14, 1.5
+D2, Asian Pork Stir Fry, 350, 30, 21, 16 
+D3, Vegetarian Pad Thai, 160, 36, 1, 1
+D4, General Tso’s Chicken, 340, 20, 21, 20
+D5, General Tso’s Tofu, 200, 23, 15, 7
+D6, Snow Peas, 90, 11, 4, 3.5
+D7, Asian Carrots, 70, 10, 2, 3
+D8, Stuffed Portobello Risotto, 450, 76, 11, 12
+D9, Brussel Sprouts, 100, 7, 3, 7
+D10, Cajun Salmon, 160, 0, 23, 7
+D11, Cajun Rice, 180, 35, 4, 2.5
+D12, Sauteed Broccoli, 160, 4, 4, 16
+D13, Smashed Redskin Potato, 290, 28, 3, 18
+D14, Sweet Yellow Corn, 80, 19, 3, 0.5
+D15, Seasoned Wedge Cut potatoes, 210, 24, 3, 13
+D16, Roasted cauliflower, 170, 4, 1, 18
+D17, Lasagna, 390, 39, 27, 16
+D18, Bolognaise Sauce, 110, 13, 7, 3.5
+D20, Spaghetti Squash, 200, 16, 10, 12
+D21, kale, 110, 16, 8, 3.5
+D22, garlic bread, 200, 29, 6, 6
+D23, Grilled flank steak, 210, 1, 28, 10
+D24, chipotle roasted potatoes, 100, 18, 2, 2.5
+D25, Mexican green rice, 250, 42, 4, 8
+D26, Chicken with mushroom cream sauce, 250, 28, 11, 12
+D27, Roasted sweet potato with yogurt, 140, 24, 3, 4.5
+D28, roasted button mushrooms, 90, 4, 3, 7
+D29, cajun chicken pasta, 360, 35, 13, 18
+D30, spicy jerk chicken, 460, 30, 34, 25
+D31, Red quinoa pilaf, 130, 27, 4, 1.5
+D32, breaded cod, 220, 13, 22, 8
+D33, Southern Style fried chicken, 530, 17, 33, 35
+D34, garlic mashed potatoes, 350, 34, 6, 23
+D35, teriyaki salmon, 240, 16, 26, 7
+D36, Chinese green beans, 70, 4, 1, 6
+D37, hot and sour eggplant, 230, 20, 3, 16
+D38, jasmine rice, 200, 44, 4, 0
+D39, breaded chicken tender, 460, 25, 24, 30
+U1, Chicken fried rice, 343.0, 55.0, 14.0, 7.0
+U2, Turkey Burger, 550.0, 45.0, 36.0, 24.0
